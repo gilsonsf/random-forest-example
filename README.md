@@ -5,8 +5,8 @@
 - TREG1		= ever smoked regulary 1=yes 2=no (REGULAR SMOKING)
 Have you ever smoked cigarettes regulary, at leat one cigarette every day for 30 days?
 
--BIO_SEX 	  = 1=mas 2=fem
--HISPANIC    = 1=yes 2=no
+- BIO_SEX 	  = 1=mas 2=fem
+- HISPANIC    = 1=yes 2=no
 WHITE       = 1=yes 2=no 
 BLACK       = 1=yes 2=no
 NAMERICAN   = 1=yes 2=no
