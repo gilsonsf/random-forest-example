@@ -5,7 +5,7 @@
 TREG1		= ever smoked regulary 1=yes 2=no (REGULAR SMOKING)
 Have you ever smoked cigarettes regulary, at leat one cigarette every day for 30 days?
 
-**BIO_SEX 	  = 1=mas 2=fem
+BIO_SEX 	  = 1=mas 2=fem
 HISPANIC    = 1=yes 2=no
 WHITE       = 1=yes 2=no 
 BLACK       = 1=yes 2=no
@@ -27,7 +27,7 @@ GPA1        = grade point average - 4.0 scale
 EXPEL1      = ever expessed from school 1=yes 2=no
 FAMCONCT    = family connectedness scale
 PARACTV     = parent activities scale
-PARPRES     = parental presence scale**
+PARPRES     = parental presence scale
 
 
 ### Diagrama Árvore de Decisão 
