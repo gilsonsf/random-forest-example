@@ -2,8 +2,8 @@
 
 ### Variáveis Quantitativas e Categóricas
 
+####Have you ever smoked cigarettes regulary, at leat one cigarette every day for 30 days?
 - TREG1		= ever smoked regulary 1=yes 2=no (REGULAR SMOKING)
-**Have you ever smoked cigarettes regulary, at leat one cigarette every day for 30 days?**
 
 - BIO_SEX 	  = 1=mas 2=fem
 - HISPANIC    = 1=yes 2=no
